@@ -1,0 +1,11 @@
+/home/bill/solve/.net/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/bill/solve/.net/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/bill/solve/.net/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/bill/solve/.net/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/bill/solve/.net/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/bill/solve/.net/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/bill/solve/.net/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/bill/solve/.net/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/bill/solve/.net/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/bill/solve/.net/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/bill/solve/.net/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
